@@ -6,8 +6,6 @@
 
 		Cree la tabla "buscador, luego con su manejador importe la data del archivo datos_descuentos_buscador_prueba.2.0.csv en la tabla creada.
 
-		<br><br>
-
 		#importando Dump SQL
 
 		Cree una Base de datos en Mysql con el nombre de "test_cupon".
